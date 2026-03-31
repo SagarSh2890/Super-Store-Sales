@@ -47,3 +47,6 @@ Dashboard Overview
 
 ![image alt](https://github.com/SagarSh2890/Super-Store-Sales/blob/main/Screenshot%20(224).png)
 
+![image alt](https://github.com/SagarSh2890/Super-Store-Sales/blob/main/Screenshot%20(225).png)
+
+
